@@ -1,5 +1,15 @@
 ## Made for econhacks 2021
 
+# Our Idea and motivation
+
+### Farmers- They have to sell their products from chennai to delhi, we can create an app or web app, which connects farmers with companies or retailers, with just an app, no more complex contacts, even a farmer without any concatcs can sell!!, and not only that, transporting companies, will tell the rates, like an auction, and the farmer would have its freedom and his choice that he can select  the transporting comainie which is cheaper!!
+
+
+
+
+
+
+
 Made with React and Firebase
 
 

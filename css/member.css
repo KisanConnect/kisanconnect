@@ -1,0 +1,48 @@
+body{
+    background-color: #e9ecef;
+}
+
+.person{
+    background-color: white;
+    border-radius: 9px;
+    width: 50rem;
+    height: 30rem;
+    padding: 45px;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    box-shadow: 0 0 20px #39C795;
+}
+
+.person .img img{
+    width: 222px;
+    border-radius: 50%!important;
+    box-shadow: 0 0 20px #39C795;
+}
+
+.about h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.3rem;
+    color: #0087ca;
+}
+.about p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+.colored_name{
+    color: #0087ca;
+}
+i{
+    color: #504545;
+    background-color: skyblue;
+    border-radius: 9px;
+    margin: 5px;
+    margin-top: 20px;
+    padding: 7px 7px;
+    font-size: 2rem;
+    transition: all 0.2s ease-in;
+}
+
+i:hover{
+    color: #0d6efd;
+}

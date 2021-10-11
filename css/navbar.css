@@ -1,0 +1,13 @@
+.nav__link:hover{
+    color: white;
+}
+.nav__name:hover{
+    color: white;
+}
+.log_in:hover{
+    color: rgb(15, 0, 102);
+    background-color: rgb(195, 228, 255);
+}
+.sign_up:hover{
+    color: white;
+}

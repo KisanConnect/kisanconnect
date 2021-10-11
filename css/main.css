@@ -1,0 +1,26 @@
+input[type="file"]{
+    display: none;
+}
+label{
+    color: white;
+    background-color: #f5af09;
+    border-radius: 4px;
+    font-family: "Montserrat", sans-serif;
+    padding: 7px 25px;
+    margin-top: 15px
+}
+.margin-b-12{
+    margin-bottom: 12px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid grey;
+    outline: none;
+}
+#product_description{
+  width: 85%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+

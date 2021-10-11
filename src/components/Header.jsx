@@ -34,7 +34,7 @@ function Header(props) {
     <header className="header">
       <a href="/#" className="header__logo">Kisan Connect</a>
 
-      <ion-icon name="menu-outline" className="header__toggle" id="nav-toggle">
+      <ion-icon id="nav-toggle">
       
       {props.onMain?<a href="/main" className="log_in">Go To Home</a>:<a href="/main" className="log_in">Go To Main</a>}
             <button type="button" className="btn btn-danger"  style={{marginLeft: 10, marginBottom: 5,}} onClick={() => auth.signOut()}>Sign Out</button>

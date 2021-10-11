@@ -101,7 +101,8 @@ function Sign() {
         <span className="signInDetails" style={{marginTop: '85px',}}>
           <h1 style={h1}>Sign Up</h1>
           <hr style={{width: '200px', height: '3px', marginBottom: '20px',  color: '#39C795', opacity: '60%', boxShadow: '0 0 10px 1px #39C795', marginLeft: '25px',}}/>
-          <button onClick={signInWithGoogle} style={button}><img src="img/googlebutton.png" alt="Sign In with Google" style={imgInsideButton}/></button>
+          <button onClick={signInWithGoogle}><img src="img/googlebutton.png" alt="Sign In with Google" style={imgInsideButton}/></button>
+          <button>Sign in with Google</button>
           <p style={info}>Note: Till now we have integrated Sign In with Google account only, but we will add more in future.</p>
         </span>
       </div>
